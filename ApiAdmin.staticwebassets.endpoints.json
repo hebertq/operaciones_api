@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "ManifestType": "Publish",
+  "ManifestType": "Build",
   "Endpoints": [
     {
       "Route": "ApiAdmin.styles.css",
@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 07:06:30 GMT"
+          "Value": "Wed, 11 Jun 2025 03:51:39 GMT"
         },
         {
           "Name": "Link",
@@ -70,7 +70,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 07:06:30 GMT"
+          "Value": "Wed, 11 Jun 2025 03:51:39 GMT"
         },
         {
           "Name": "Link",
